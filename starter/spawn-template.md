@@ -49,7 +49,7 @@ Also write [artifact name] to: /workspace/swarm/agents/[label]/[filename]
 
 ## Context
 
-[Any additional context the agent needs. Keep it brief — the agent doesn't need your 
+[Any additional context the agent needs. Keep it brief. The agent doesn't need your 
 full project history, just what's relevant to this task.]
 ```
 
@@ -101,7 +101,7 @@ You are a content writer for [PROJECT].
 Write a landing page for [PRODUCT]. The page should be 300-400 words. 
 Target reader: a developer who has one working Claude agent and wants to run multiple 
 in parallel without things breaking. The page needs to answer: "what is this, why do I 
-need it, what will I learn." Do not write a sales page — write an accurate description 
+need it, what will I learn." Do not write a sales page. Write an accurate description 
 of what the product is and what it covers.
 
 Voice: Jamie Cole (see /workspace/IDENTITY.md). Direct, no AI clichés, no em-dashes.
