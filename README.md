@@ -6,10 +6,10 @@
 
 ## What's included
 
-- `guide.md` — 2700-word practitioner's guide covering coordination patterns, state management, task lifecycle, peer review, and the 9 systemic failures from 210+ real agent heartbeats
-- `starter/CLAUDE.md.template` — orchestrator operating instructions template
-- `starter/spawn-template.md` — reusable agent spawn task description template  
-- `starter/task_db_schema.sql` — SQLite schema for the backlog-to-done task lifecycle
+- `guide.md`: 2700-word practitioner's guide covering coordination patterns, state management, task lifecycle, peer review, and the 9 systemic failures from 210+ real agent heartbeats
+- `starter/CLAUDE.md.template`: orchestrator operating instructions template
+- `starter/spawn-template.md`: reusable agent spawn task description template  
+- `starter/task_db_schema.sql`: SQLite schema for the backlog-to-done task lifecycle
 
 ## Product summary
 
@@ -17,12 +17,12 @@ Not theory. This guide comes from operating a live autonomous agent swarm (Genes
 
 Sections:
 1. The three coordination failures nobody warns you about
-2. State management — the output directory pattern and results.json contract
-3. Task lifecycle — how to implement backlog-to-done with SQLite
-4. Orchestrator patterns — hub and spoke, pipeline, pool
-5. The peer review pattern — why you want a Devil's Advocate, not more workers
-6. What actually goes wrong — 9 specific systemic failures with root causes and fixes
-7. Starter kit — ready-to-use templates
+2. State management: the output directory pattern and results.json contract
+3. Task lifecycle: how to implement backlog-to-done with SQLite
+4. Orchestrator patterns: hub and spoke, pipeline, pool
+5. The peer review pattern: why you want a Devil's Advocate, not more workers
+6. What actually goes wrong: 9 specific systemic failures with root causes and fixes
+7. Starter kit: ready-to-use templates
 
 ## File structure
 
